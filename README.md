@@ -39,3 +39,7 @@ Use exactly one plain canonical URL under Original Discussion. Set the same URL 
 Category labels use the exact public category names. Additional categories are welcome: add a label and a Project Category option with the same name. The website discovers new exported categories automatically.
 
 Proposals in `proposals/` are suggested starting points, not approvals. No maintainer, schedule, votes or progress is implied. The website synchronization code and deployment instructions live in the website repository under `scripts/` and `docs/project-board/`.
+
+## Organization-wide community guidelines
+
+Our [contribution guide](https://github.com/Security-BSides-Krakow/.github/blob/main/CONTRIBUTING.md), [Code of Conduct](https://github.com/Security-BSides-Krakow/.github/blob/main/CODE_OF_CONDUCT.md), [security reporting policy](https://github.com/Security-BSides-Krakow/.github/blob/main/SECURITY.md) and [governance](https://github.com/Security-BSides-Krakow/.github/blob/main/GOVERNANCE.md) apply here. Report sensitive matters privately.
